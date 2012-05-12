@@ -7,6 +7,11 @@ gem 'rails', '3.2.2'
 
 gem 'mysql2'
 
+gem 'anjlab-bootstrap-rails', '>= 2.0', :require => 'bootstrap-rails'
+
+gem 'devise'
+
+gem 'haml'
 
 # Gems used only for assets and not required
 # in production environments by default.
