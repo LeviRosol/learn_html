@@ -3,6 +3,4 @@
 = link_to "Edit", edit_page_path(@page)
 %p
   = @page.name
-%div
-  = @page.body.html_safe
-
+%iframe{:src => body_page_path(@page)}

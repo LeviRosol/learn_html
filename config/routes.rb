@@ -5,5 +5,10 @@ LearnHtml::Application.routes.draw do
 
   root :to => "static_pages#home"
 
-  resources :pages
+  resources :pages do
+    member do
+      get :body
+    end
+  end
+
 end
