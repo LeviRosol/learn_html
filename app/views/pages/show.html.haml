@@ -1,0 +1,8 @@
+%h1
+  = "My Page"
+= link_to "Edit", edit_page_path(@page)
+%p
+  = @page.name
+%div
+  = @page.body.html_safe
+

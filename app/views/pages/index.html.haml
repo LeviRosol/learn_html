@@ -1,0 +1,6 @@
+%h1
+  = "My Pages"
+- unless @pages.nil?
+  - @pages.each do |page|
+    = page.name
+= link_to "New Page", new_page_path
