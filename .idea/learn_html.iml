@@ -22,7 +22,6 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.2.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.2.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.2.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="anjlab-bootstrap-rails (v2.0.3.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v3.0.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.0.1, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
@@ -39,6 +38,8 @@
     <orderEntry type="library" scope="PROVIDED" name="journey (v1.0.3, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v2.0.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.7.3, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="less (v2.2.1, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="less-rails (v2.2.2, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.4.4, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.18, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.3.5, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
@@ -56,6 +57,7 @@
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.18, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.5, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.1.3, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="therubyracer (v0.10.1, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.3-p194 [learn_html]) [gem]" level="application" />

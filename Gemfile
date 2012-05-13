@@ -7,7 +7,7 @@ gem 'rails', '3.2.2'
 
 gem 'mysql2'
 
-gem 'anjlab-bootstrap-rails', '>= 2.0', :require => 'bootstrap-rails'
+gem "twitter-bootstrap-rails"
 
 gem 'devise'
 

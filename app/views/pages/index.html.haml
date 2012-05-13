@@ -1,6 +1,18 @@
 %h1
   = "My Pages"
-- unless @pages.nil?
-  - @pages.each do |page|
-    = page.name
+%div
+  - unless @pages.nil?
+    %table
+      %tr
+        %th
+          = "Manage"
+        %th
+          = "Name"
+      - @pages.each do |page|
+        %tr
+          %td
+            = link_to "View", page_path(page)
+            = link_to "Edit", edit_page_path(page)
+          %td
+            = page.name
 = link_to "New Page", new_page_path

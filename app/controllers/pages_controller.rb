@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def index
-    @pages = Page.find_by_user_id(current_user.id)
+    @pages = Page.find_all_by_user_id(current_user.id)
   end
 
   def new
